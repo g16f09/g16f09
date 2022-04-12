@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g16f09
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning r, python and java
 - 💞️ I’m looking to collaborate on any beginner-level projects
 - 📫 How to reach me: discord g09f16#2013
 
